@@ -1,7 +1,7 @@
 vagrant-crowi
 ===================
 
-You can easily start a Crowi.  
+You can easily start the Crowi.  
 
 # What is Crowi?
 
